@@ -9,7 +9,7 @@ package com.company;
 public class Lommeregner {
 
     public int plus(int a, int b) {
-        int resultat = a + 2;
+        int resultat = a + b;
         return resultat;
     }
 }
